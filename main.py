@@ -1,9 +1,5 @@
-# This is a sample Python script.
 import sys
 import src.model.DCGAN.model as dcgan
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 def cleanRootPath(root):
     if root[-1] != "/":
